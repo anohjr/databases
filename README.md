@@ -1,1 +1,1 @@
-📗 RESSOURCES -> Databases / MYsql
+📗 RESSOURCES -> Databases / MySql
